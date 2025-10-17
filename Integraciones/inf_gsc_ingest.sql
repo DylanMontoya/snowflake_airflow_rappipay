@@ -1,0 +1,1 @@
+DESC STORAGE INTEGRATION gcs_rappipay;
